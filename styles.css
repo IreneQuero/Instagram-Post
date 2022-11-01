@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 3%;
+}
+
+.container{
+    background-color: white;
+    width: 450px;
+    height: auto;
+    margin: auto;
+    
+}
+
+
+.caja-superior {
+    display: flex;
+    height: 30px;
+    padding: 12px;
+    align-items: center;
+    
+}
+
+
+.caja-superior > * {
+    margin: 5px;
+    box-sizing: content-box;
+    
+}
+
+.contenedor{
+    padding: 12px;
+}
+
+.caja-iconos *{
+    margin: 5px;
+}
+
+.caja-comentarios {
+    box-sizing: content-box;
+    padding: 7px;
+}
+
+img {
+    width: 100%;
+}
+
+
+#floatRight{
+    float: right;
+    margin-left: auto
+}
