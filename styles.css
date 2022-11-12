@@ -45,8 +45,7 @@ img {
     width: 100%;
 }
 
-
-#floatRight{
+.floatRight{
     float: right;
     margin-left: auto
 }
